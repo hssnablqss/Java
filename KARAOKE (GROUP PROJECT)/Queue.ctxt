@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Queue\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=item
+comment1.target=void\ enqueue(Karaoke)
+comment2.params=
+comment2.target=Karaoke\ dequeue()
+comment3.params=
+comment3.target=Karaoke\ getFront()
+comment4.params=
+comment4.target=Karaoke\ getEnd()
+numComments=5
