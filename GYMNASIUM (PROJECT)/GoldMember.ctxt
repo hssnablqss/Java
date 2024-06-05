@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GoldMember
+comment1.params=name\ icNo\ gender\ category\ type\ entry
+comment1.target=GoldMember(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getmembertype()
+comment3.params=
+comment3.target=int\ getTotalMonth()
+comment4.params=
+comment4.target=double\ calcGoldCharges()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
